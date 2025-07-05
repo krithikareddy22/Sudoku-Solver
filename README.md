@@ -15,7 +15,7 @@ A simple and efficient **Sudoku Solver written in C++** using the classic **Back
 ![Input Screenshot](sudoku/images/Input.png)
 
 ### ✅ Solved Output
-![Output Screenshot](sudokuimages/Answer.png)
+![Output Screenshot](sudoku/images/Answer.png)
 
 ## 📦 How to Compile
 
