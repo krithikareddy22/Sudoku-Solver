@@ -1,4 +1,4 @@
-# Sudoku Solver 🧩
+# Sudoku Solver (9x9)🧩
 
 A simple and efficient **Sudoku Solver written in C++** using the classic **Backtracking algorithm**.
 
